@@ -2,7 +2,7 @@
 # To use: brew tap yourusername/clipflow && brew install --cask clipflow
 
 cask "clipflow" do
-  version "1.0.0"
+  version "1.0.1"
   sha256 :no_check  # Update with actual SHA256 of DMG
 
   url "https://github.com/praneeth552/clipflow/releases/download/v#{version}/ClipFlow-#{version}.dmg"
